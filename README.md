@@ -24,11 +24,9 @@ Final-year BSc Computer Science student | Aspiring Data Analyst
 ### 🧰 Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="30" />
 
 ---
 
@@ -47,11 +45,6 @@ Final-year BSc Computer Science student | Aspiring Data Analyst
 - 📊 **Dashboards & visualizations**
 - 🧪 **Python & SQL practice for analytics**
 - 🎓 Final-year **academic + applied projects**
-
----
-
-### 📊 GitHub Stats
-![Lena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LenaBasheer27&show_icons=true&theme=radical&count_private=true)
 
 ---
 
