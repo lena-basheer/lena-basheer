@@ -45,7 +45,7 @@ Final-year BSc Computer Science student | Aspiring Data Analyst
 ---
 
 ### 🔗 Connect with Me
-<a href="https://github.com/LenaBasheer27" target="_blank">
+<a href="https://github.com/lena-basheer" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lenabasheer-dataanalyst" target="_blank">
