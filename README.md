@@ -1,44 +1,45 @@
 <h1 align="center">Hi 👋, I'm Lena Basheer</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
-Turning data into insights through analysis, visualization, and reporting.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-<a href="mailto:lenabasheer.in@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/lenabasheer-dataanalyst">LinkedIn</a> •
-<a href="https://github.com/lena-basheer">GitHub</a>
+<a href="https://github.com/lena-basheer">
+<img src="https://komarev.com/ghpvc/?username=lena-basheer&label=Profile+Views&color=blue&style=for-the-badge" />
+</a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 BSc Computer Science Graduate (GPA: 87/100)
-* 📊 Aspiring Data Analyst passionate about data-driven decision making
-* 🐍 Skilled in Python, SQL, Power BI, Excel, Pandas, and NumPy
-* 📈 Interested in Business Intelligence, Data Visualization, and Reporting
-* 🚀 Building projects that transform raw data into actionable insights
+🎓 Final-Year BSc Computer Science Student
+
+📊 Aspiring Data Analyst passionate about uncovering insights from data
+
+🐍 Skilled in Python, SQL, Power BI, Excel, Pandas, and NumPy
+
+📈 Interested in Data Analytics, Business Intelligence, and Visualization
+
+🚀 Currently building projects focused on real-world problem solving
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-### Data Analysis & Visualization
-
-* Python
-* SQL
-* Pandas
-* NumPy
-* Power BI
-* Excel
-* Matplotlib
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
 ---
 
@@ -46,30 +47,46 @@ Turning data into insights through analysis, visualization, and reporting.
 
 ### 📊 Financial Performance Dashboard
 
-* Built KPI dashboards using Power BI and DAX
-* Analyzed revenue, expenses, and profit trends
-* Identified high-performing departments and peak revenue periods
+* Revenue, Expense & Profit Analysis
+* KPI Dashboard using Power BI & DAX
+* Business Performance Monitoring
 
 ### 👥 HR Analytics Dashboard
 
-* Analyzed workforce distribution and employee data
-* Developed interactive dashboards with filters
-* Generated insights to support HR decision-making
+* Workforce Analysis
+* Interactive Filters & Insights
+* HR Decision Support Dashboard
 
 ### 🗓️ Advanced Timetable Generator
 
-* Developed a constraint-based academic scheduling system
-* Automated timetable creation using structured datasets
-* Exported schedules to PDF and Excel formats
+* Constraint-Based Scheduling System
+* Automated Timetable Generation
+* Export to PDF & Excel
 
 ---
 
 ## 📜 Certifications
 
-* IBM – Data Analysis with Python
-* NPTEL – Python for Data Science
-* HP – Data Science & Analytics Simulation
-* Tata Group Forage – GenAI Data Analytics Simulation
+🏅 IBM – Data Analysis with Python
+
+🏅 NPTEL – Python for Data Science
+
+🏅 HP – Data Science & Analytics Simulation
+
+🏅 Tata Group Forage – GenAI Data Analytics Simulation
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lena-basheer&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena-basheer&layout=compact" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lena-basheer" />
+</p>
 
 ---
 
@@ -84,11 +101,18 @@ Turning data into insights through analysis, visualization, and reporting.
 
 ## 📫 Connect With Me
 
-📧 Email: [lenabasheer.in@gmail.com](mailto:lenabasheer.in@gmail.com)
+<p align="center">
+<a href="mailto:lenabasheer.in@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 LinkedIn: https://www.linkedin.com/in/lenabasheer-dataanalyst
+<a href="https://www.linkedin.com/in/lenabasheer-dataanalyst">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 GitHub: https://github.com/lena-basheer
-
+<a href="https://github.com/lena-basheer">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 
