@@ -1,56 +1,94 @@
-<h2 align="center">Hi 👋, I'm Lena</h2>
-<h4 align="center">
-Final-year BSc Computer Science student | Aspiring Data Analyst
-</h4>
+<h1 align="center">Hi 👋, I'm Lena Basheer</h1>
+
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=500&lines=Data+Analysis+with+Python+%26+SQL;Power+BI+Dashboards+%26+Insights;Turning+Data+into+Decisions" />
+Turning data into insights through analysis, visualization, and reporting.
+</p>
+
+<p align="center">
+<a href="mailto:lenabasheer.in@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/lenabasheer-dataanalyst">LinkedIn</a> •
+<a href="https://github.com/lena-basheer">GitHub</a>
 </p>
 
 ---
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 👩‍💻 About Me
 
-### 👩‍💻 About Me
-- 🎓 Final-year **BSc Computer Science** student (India)
-- 📊 Focused on **Data Analysis, Visualization & Reporting**
-- 🧠 Skilled in **Python, SQL, Power BI, Excel**
-- 🔍 Interested in **data cleaning, EDA & business insights**
-- 🛠 Currently building an **Automated Examination Evaluation System**
-- 📧 Reach me at: **lenabasheerlena@gmail.com**
+* 🎓 BSc Computer Science Graduate (GPA: 87/100)
+* 📊 Aspiring Data Analyst passionate about data-driven decision making
+* 🐍 Skilled in Python, SQL, Power BI, Excel, Pandas, and NumPy
+* 📈 Interested in Business Intelligence, Data Visualization, and Reporting
+* 🚀 Building projects that transform raw data into actionable insights
 
 ---
 
-### 🧰 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="30" />
+## 🧰 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+### Data Analysis & Visualization
+
+* Python
+* SQL
+* Pandas
+* NumPy
+* Power BI
+* Excel
+* Matplotlib
 
 ---
 
-### 📁 Featured Project
-- **Salesforce Property Management System** – Flow, Apex, and validation rules automation.  
-  Role: Flow & Automation Developer | [Repo Link](https://github.com/lena-basheer/salesforce-property-management-system)
+## 📁 Featured Projects
+
+### 📊 Financial Performance Dashboard
+
+* Built KPI dashboards using Power BI and DAX
+* Analyzed revenue, expenses, and profit trends
+* Identified high-performing departments and peak revenue periods
+
+### 👥 HR Analytics Dashboard
+
+* Analyzed workforce distribution and employee data
+* Developed interactive dashboards with filters
+* Generated insights to support HR decision-making
+
+### 🗓️ Advanced Timetable Generator
+
+* Developed a constraint-based academic scheduling system
+* Automated timetable creation using structured datasets
+* Exported schedules to PDF and Excel formats
 
 ---
 
-### 📌 What You’ll Find Here
-- 📁 **Data analysis projects** using real datasets
-- 📊 **Dashboards & visualizations**
-- 🧪 **Python & SQL practice for analytics**
-- 🎓 Final-year **academic + applied projects**
+## 📜 Certifications
+
+* IBM – Data Analysis with Python
+* NPTEL – Python for Data Science
+* HP – Data Science & Analytics Simulation
+* Tata Group Forage – GenAI Data Analytics Simulation
 
 ---
 
-### 🔗 Connect with Me
-<a href="mailto:lenabasheerlena@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/lena-basheer" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/lenabasheer-dataanalyst" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## 🌱 Currently Learning
+
+* Advanced SQL
+* Power BI DAX
+* Business Analytics
+* Data Storytelling
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [lenabasheer.in@gmail.com](mailto:lenabasheer.in@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/lenabasheer-dataanalyst
+
+💻 GitHub: https://github.com/lena-basheer
+
+
+
