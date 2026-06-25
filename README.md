@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lena Basheer</h1>
+<h1 align="center">Hi 👋, I'm Lena B</h1>
 
 <h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Power BI</h3>
 
@@ -20,7 +20,7 @@
 
 📊 Aspiring Data Analyst passionate about uncovering insights from data
 
-🐍 Skilled in Python, SQL, Power BI, Excel, Pandas, and NumPy
+🐍 Skilled in Python, SQL, Power BI, Excel, Pandas
 
 📈 Interested in Data Analytics, Business Intelligence, and Visualization
 
