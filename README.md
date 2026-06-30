@@ -1,10 +1,8 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Lena B</h1>
 
 <h3 align="center">
 Final-Year BSc Computer Science Student | Aspiring Data Analyst
 </h3>
-
 <p align="center">
 Turning raw data into meaningful insights through analytics, visualization, and problem-solving.
 </p>
