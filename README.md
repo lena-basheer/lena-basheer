@@ -119,6 +119,8 @@ Passionate about transforming raw data into meaningful business insights through
 - PDF & Excel Export
 - Conflict-Free Scheduling
 
+ 🔗 **Repository:** https://github.com/lena-basheer/advanced-timetable-generator
+
 ---
 
 # 📜 Certifications
