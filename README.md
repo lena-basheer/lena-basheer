@@ -121,7 +121,7 @@ https://github.com/lena-basheer/advanced-timetable-generator
 <a href="https://github.com/lena-basheer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-🌐 Portfolio: https://lenabasheer.github.io
+
 </p>
 
 ---
