@@ -1,75 +1,85 @@
 <h1 align="center">Hi 👋, I'm Lena B</h1>
 
 <h3 align="center">
-BSc Computer Science Graduate • Aspiring Data Analyst
+BSc Computer Science Graduate | Aspiring Data Analyst
 </h3>
 
 <p align="center">
-Passionate about transforming raw data into meaningful business insights through analytics, visualization, and problem-solving.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E8BFF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%26+Visualization;Building+Real-World+Analytics+Projects;Always+Learning+🚀" />
+Transforming raw data into actionable business insights using Python, SQL, Excel, and Power BI.
 </p>
 
 <p align="center">
 
 <a href="https://github.com/lena-basheer">
-<img src="https://komarev.com/ghpvc/?username=lena-basheer&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=lena-basheer&style=for-the-badge&color=blue" />
 </a>
 
-<a href="https://github.com/lena-basheer?tab=followers">
-<img src="https://img.shields.io/github/followers/lena-basheer?style=for-the-badge"/>
+<a href="mailto:lenabasheer.in@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lenabasheer-dataanalyst">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 👩🏻‍💻 About Me
 
-🎓 BSc Computer Science graduate with a strong interest in **Data Analytics** and **Business Intelligence**.
+🎓 BSc Computer Science Graduate
 
-📊 I enjoy transforming raw datasets into actionable insights using **Python, SQL, Excel, Power BI, Pandas, and NumPy**.
+📊 Passionate about Data Analytics and Business Intelligence
 
-💡 I love discovering patterns in data, building interactive dashboards, and solving real-world business problems through analytics.
+💻 Skilled in:
 
-🚀 Currently building practical portfolio projects while preparing for **Data Analyst** opportunities.
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Pandas
+- NumPy
+
+📈 I enjoy cleaning, analyzing, and visualizing data to solve business problems and support data-driven decision-making.
+
+🚀 Currently building real-world analytics projects while preparing for Data Analyst opportunities.
 
 ---
 
-# 🎯 Core Skills
+# 💡 Core Skills
 
-- 📈 Data Analysis
-- 🧹 Data Cleaning & Transformation
-- 📊 Exploratory Data Analysis (EDA)
-- 📉 Data Visualization
-- 📋 Dashboard Development
-- 🗄 SQL Querying
-- 📌 KPI Reporting
-- 📑 Business Insights
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- SQL Querying
+- Dashboard Development
+- Data Visualization
+- KPI Reporting
+- Business Analytics
+- Problem Solving
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
-### Data Analytics
+### Analytics
 
 <p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
 </p>
 
@@ -85,41 +95,31 @@ Passionate about transforming raw data into meaningful business insights through
 
 # 📂 Featured Projects
 
+## 🗓️ Advanced Timetable Generator
+
+**Electron.js • JavaScript • SQLite**
+
+Desktop application for automated academic timetable generation with conflict-free scheduling and teacher workload management.
+
+🔗 Repository
+
+https://github.com/lena-basheer/advanced-timetable-generator
+
+---
+
 ## 📊 Financial Performance Dashboard
 
-**Tools:** Power BI • DAX
+**Power BI • DAX**
 
-- Interactive KPI Dashboard
-- Revenue, Expense & Profit Analysis
-- Business Performance Tracking
-- Trend Analysis
-- Executive-Level Reporting
+Interactive dashboard for monitoring revenue, expenses, profit trends, and business KPIs.
 
 ---
 
 ## 👥 HR Analytics Dashboard
 
-**Tools:** Power BI
+**Power BI**
 
-- Workforce Analysis
-- Employee Performance Dashboard
-- HR KPI Reporting
-- Interactive Filters
-- Data-Driven Decision Support
-
----
-
-## 🗓 Advanced Timetable Generator
-
-**Tools:** Electron.js • JavaScript • SQLite
-
-- Automated Academic Timetable Generation
-- Constraint-Based Scheduling
-- Teacher Workload Management
-- PDF & Excel Export
-- Conflict-Free Scheduling
-
- 🔗 **Repository:** https://github.com/lena-basheer/advanced-timetable-generator
+Dashboard for workforce analysis, employee performance tracking, and HR KPI reporting.
 
 ---
 
@@ -139,63 +139,41 @@ Passionate about transforming raw data into meaningful business insights through
 
 - Advanced SQL
 - Power BI (DAX & Power Query)
-- Data Storytelling
-- Business Analytics
 - Statistics for Data Analysis
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lena-basheer&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena-basheer&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lena-basheer&hide_border=true"/>
-
-</p>
+- Business Analytics
+- Data Storytelling
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="mailto:lenabasheer.in@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/lenabasheer-dataanalyst">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/lena-basheer">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-<div align="center">
-
-### 💬 Favorite Quote
-
-*"Without data, you're just another person with an opinion."*  
-— **W. Edwards Deming**
-
-</div>
+> *"Without data, you're just another person with an opinion."*  
+> — **W. Edwards Deming**
 
 ---
 
-<div align="center">
-
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories, and let's connect.
-
-</div>
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
