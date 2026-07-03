@@ -1,58 +1,83 @@
 <h1 align="center">Hi 👋, I'm Lena B</h1>
 
 <h3 align="center">
-Final-Year BSc Computer Science Student | Aspiring Data Analyst
+BSc Computer Science Graduate • Aspiring Data Analyst
 </h3>
+
 <p align="center">
-Turning raw data into meaningful insights through analytics, visualization, and problem-solving.
+Passionate about transforming raw data into meaningful business insights through analytics, visualization, and problem-solving.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Real-World+Analytics+Projects;Transforming+Data+into+Business+Insights;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E8BFF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%26+Visualization;Building+Real-World+Analytics+Projects;Always+Learning+🚀" />
 </p>
 
 <p align="center">
+
 <a href="https://github.com/lena-basheer">
-<img src="https://komarev.com/ghpvc/?username=lena-basheer&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=lena-basheer&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 </a>
+
+<a href="https://github.com/lena-basheer?tab=followers">
+<img src="https://img.shields.io/github/followers/lena-basheer?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 Final-Year **BSc Computer Science** student passionate about using data to solve business problems.
+🎓 BSc Computer Science graduate with a strong interest in **Data Analytics** and **Business Intelligence**.
 
-📊 Building practical projects in **Python, SQL, Power BI, Excel, Pandas, and NumPy** to strengthen analytical and visualization skills.
+📊 I enjoy transforming raw datasets into actionable insights using **Python, SQL, Excel, Power BI, Pandas, and NumPy**.
 
-📈 Interested in:
-- Data Analytics
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
-- Data Cleaning & Transformation
+💡 I love discovering patterns in data, building interactive dashboards, and solving real-world business problems through analytics.
 
-🚀 Currently focused on creating real-world portfolio projects and preparing for Data Analyst internships.
+🚀 Currently building practical portfolio projects while preparing for **Data Analyst** opportunities.
 
 ---
 
-# 🛠️ Tech Stack
+# 🎯 Core Skills
 
-<p align="center">
+- 📈 Data Analysis
+- 🧹 Data Cleaning & Transformation
+- 📊 Exploratory Data Analysis (EDA)
+- 📉 Data Visualization
+- 📋 Dashboard Development
+- 🗄 SQL Querying
+- 📌 KPI Reporting
+- 📑 Business Insights
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+---
 
+# 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
-<p align="center">
+### Data Analytics
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<p>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
@@ -62,41 +87,37 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 
 ## 📊 Financial Performance Dashboard
 
-✔ Designed an interactive Power BI dashboard
+**Tools:** Power BI • DAX
 
-✔ Created KPI cards for Revenue, Expenses and Profit
-
-✔ Used DAX measures for business analysis
-
-✔ Delivered insights through interactive visualizations
-
-🔗 Repository: *(Coming Soon)*
+- Interactive KPI Dashboard
+- Revenue, Expense & Profit Analysis
+- Business Performance Tracking
+- Trend Analysis
+- Executive-Level Reporting
 
 ---
 
 ## 👥 HR Analytics Dashboard
 
-✔ Employee performance and workforce analysis
+**Tools:** Power BI
 
-✔ Interactive filtering and drill-down reports
-
-✔ HR metrics visualization for better decision-making
-
-🔗 Repository: *(Coming Soon)*
+- Workforce Analysis
+- Employee Performance Dashboard
+- HR KPI Reporting
+- Interactive Filters
+- Data-Driven Decision Support
 
 ---
 
-## 🗓️ Advanced Timetable Generator
+## 🗓 Advanced Timetable Generator
 
-✔ Automated timetable generation system
+**Tools:** Electron.js • JavaScript • SQLite
 
-✔ Constraint-based scheduling
-
-✔ Export support for PDF & Excel
-
-✔ Built using modern programming concepts
-
-🔗 Repository: *(Coming Soon)*
+- Automated Academic Timetable Generation
+- Constraint-Based Scheduling
+- Teacher Workload Management
+- PDF & Excel Export
+- Conflict-Free Scheduling
 
 ---
 
@@ -108,25 +129,7 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 
 🏅 HP – Data Science & Analytics Job Simulation
 
-🏅 Tata Group Forage – GenAI Data Analytics Job Simulation
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lena-basheer&show_icons=true&theme=default"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena-basheer&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lena-basheer"/>
-
-</p>
+🏅 Tata Group – GenAI Data Analytics Job Simulation
 
 ---
 
@@ -134,18 +137,36 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 
 - Advanced SQL
 - Power BI (DAX & Power Query)
-- Business Analytics
 - Data Storytelling
-- Data Cleaning Techniques
+- Business Analytics
+- Statistics for Data Analysis
 
 ---
 
-# 🤝 Let's Connect
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lena-basheer&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena-basheer&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lena-basheer&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:lenabasheer.in@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lenabasheer-dataanalyst">
@@ -160,9 +181,19 @@ Turning raw data into meaningful insights through analytics, visualization, and 
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+### 💬 Favorite Quote
 
-</p>
-```
+*"Without data, you're just another person with an opinion."*  
+— **W. Edwards Deming**
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories, and let's connect.
+
+</div>
