@@ -30,7 +30,7 @@ Transforming raw data into actionable insights using Python, SQL, Excel, and Pow
 
 🎓 BSc Computer Science Graduate passionate about Data Analytics and Business Intelligence.
 
-📊 Skilled in analyzing, cleaning, and visualizing data using **Python, SQL, Excel, Power BI, Pandas, and NumPy**.
+📊 Skilled in data analysis, cleaning, visualization, and version control using Python, SQL, Excel, Power BI, Pandas, NumPy, and Git.
 
 💡 I enjoy solving business problems through data-driven insights and continuously improving my analytical skills by building practical projects.
 
@@ -64,26 +64,24 @@ Transforming raw data into actionable insights using Python, SQL, Excel, and Pow
 - VS Code
 
 ---
+# 🚀  Featured Project
 
-# 🚀 Featured Repository
+## 📊 Customer Segmentation & Sales Analysis
 
-## 🗓️ Advanced Timetable Generator
+**Python • Pandas • NumPy • Matplotlib • Jupyter Notebook**
 
-**Electron.js • JavaScript • Node.js • SQLite**
-
-Desktop application that automates academic timetable generation while preventing scheduling conflicts and efficiently managing teacher workloads.
+A data analytics project exploring retail sales data to identify customer purchasing patterns, segment customers, and generate business insights through exploratory data analysis and visualization.
 
 ### Highlights
 
-- Automated timetable generation
-- Constraint-based scheduling
-- Teacher workload management
-- PDF & Excel export
-- SQLite database integration
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Customer segmentation
+- Sales trend analysis
+- Business insights and recommendations
+- Data visualization using Python
 
-🔗 **Repository**
-
-https://github.com/lena-basheer/advanced-timetable-generator
+🔗 **Repository:** [Customer Segmentation & Sales Analysis](https://github.com/lena-basheer/Customer-Segmentation-Sales-Analysis)
 
 ---
 
@@ -121,7 +119,9 @@ https://github.com/lena-basheer/advanced-timetable-generator
 <a href="https://github.com/lena-basheer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="https://lenabasheer.github.io">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -136,6 +136,6 @@ https://github.com/lena-basheer/advanced-timetable-generator
 
 ⭐ Thank you for visiting my GitHub profile!
 
-I'm continuously learning, building projects, and growing my skills in Data Analytics. Feel free to explore my repositories and connect with me.
+I'm continuously building practical projects, expanding my analytics portfolio, and learning new tools to solve real-world business problems through data.
 
 </div>
