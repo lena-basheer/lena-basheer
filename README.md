@@ -1,141 +1,195 @@
-<h1 align="center">Hi 👋, I'm Lena B</h1>
+# 👋 Hi, I'm Lena B
 
-<h3 align="center">
-BSc Computer Science Graduate | Aspiring Data Analyst
-</h3>
+## Data Analyst | Python • SQL • Power BI • Excel
 
-<p align="center">
-Transforming raw data into actionable insights using Python, SQL, Excel, and Power BI.
-</p>
+BSc Computer Science Graduate specializing in Data Analytics and Business Intelligence.
 
-<p align="center">
-
-<a href="https://github.com/lena-basheer">
-<img src="https://komarev.com/ghpvc/?username=lena-basheer&style=for-the-badge&color=blue" />
-</a>
-
-<a href="https://www.linkedin.com/in/lenabasheer-dataanalyst">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:lenabasheer.in@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+I transform raw datasets into actionable business insights through data cleaning, exploratory data analysis (EDA), KPI reporting, dashboard development, and data visualization.
 
 ---
 
 # 👩🏻‍💻 About Me
 
-🎓 BSc Computer Science Graduate passionate about Data Analytics and Business Intelligence.
+🎓 Computer Science graduate with hands-on experience in Data Analytics and Business Intelligence.
 
-📊 Skilled in data analysis, cleaning, visualization, and version control using Python, SQL, Excel, Power BI, Pandas, NumPy, and Git.
+📊 Skilled in analyzing datasets using Python, SQL, Excel, and Power BI to uncover trends, customer behavior patterns, and business insights.
 
-💡 I enjoy solving business problems through data-driven insights and continuously improving my analytical skills by building practical projects.
+🔍 Experienced in:
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Customer Segmentation
+- KPI Reporting
+- Dashboard Development
+- Business Insight Generation
 
-🎯 Currently seeking **Data Analyst** opportunities while expanding my portfolio.
+📈 Built analytics projects involving:
+- 500,000+ retail transactions
+- Customer segmentation models
+- SQL-driven business analysis
+- Interactive Power BI dashboards
+
+🎯 Currently seeking Data Analyst / Business Intelligence opportunities where I can apply analytical skills to solve real-world business problems.
 
 ---
 
 # 💼 Technical Skills
 
-### Programming
+## Programming & Analysis
+
 - Python
 - SQL
-
-### Data Analytics
-- Microsoft Excel
-- Power BI
 - Pandas
 - NumPy
+- Matplotlib
 
-### Analytics Skills
+## Data Analytics
+
 - Data Cleaning
 - Data Transformation
 - Exploratory Data Analysis (EDA)
-- Data Visualization
-- Dashboard Development
-- KPI Reporting
+- Feature Engineering
+- Customer Segmentation
+- Business Analysis
+- KPI Development
 
-### Tools
+## Business Intelligence & Visualization
+
+- Power BI
+  - DAX
+  - Power Query
+  - Interactive Dashboards
+- Microsoft Excel
+  - Pivot Tables
+  - Pivot Charts
+  - VLOOKUP/XLOOKUP
+  - Conditional Formatting
+  - Dashboard Development
+
+## Databases & Tools
+
+- SQLite
 - Git
 - GitHub
+- Jupyter Notebook
 - VS Code
 
 ---
-# 🚀  Featured Project
+
+# 🚀 Featured Projects
 
 ## 📊 Customer Segmentation & Sales Analysis
 
 **Python • Pandas • NumPy • Matplotlib • Jupyter Notebook**
 
-A data analytics project exploring retail sales data to identify customer purchasing patterns, segment customers, and generate business insights through exploratory data analysis and visualization.
+Analyzed 500,000+ online retail transactions to understand customer purchasing behavior, identify revenue drivers, and create customer segments for retention strategy.
 
-### Highlights
+### Key Highlights
 
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Customer segmentation
-- Sales trend analysis
-- Business insights and recommendations
-- Data visualization using Python
+✅ Cleaned and transformed large retail datasets  
+✅ Performed Exploratory Data Analysis (EDA)  
+✅ Engineered features for customer analysis  
+✅ Segmented 4,000+ customers into:
+- VIP
+- Loyal
+- Regular
+- New
 
-🔗 **Repository:** [Customer Segmentation & Sales Analysis](https://github.com/lena-basheer/Customer-Segmentation-Sales-Analysis)
+✅ Identified:
+- Top-selling products
+- High-value customers
+- Monthly sales trends
+- Country-level revenue patterns
+
+🔗 Repository:
+https://github.com/lena-basheer/Customer-Segmentation-Sales-Analysis
+
+---
+
+## 📈 SQL + Python Business Analytics
+
+**SQL • SQLite • Python • Pandas • Matplotlib • Git/GitHub**
+
+An end-to-end analytics project combining SQL and Python to analyze retail sales data and generate business insights.
+
+### Key Highlights
+
+✅ Analyzed approximately 10,000 retail records  
+✅ Built SQL queries using joins and aggregations  
+✅ Evaluated:
+- Customer performance
+- Product performance
+- Category trends
+- Regional sales
+
+✅ Identified:
+- Technology as the highest revenue-generating category
+- West region as the strongest-performing region
+
+✅ Automated analysis reports and visualizations using Python.
+
+🔗 Repository:
+https://github.com/lena-basheer/sql-python-business-analytics
+
+---
+
+## 📊 HR Analytics Dashboard
+
+**Power BI**
+
+Interactive workforce analytics dashboard designed to analyze employee distribution and HR-related metrics.
+
+### Key Highlights
+
+✅ Built KPI-based visualizations  
+✅ Added filters and slicers for self-service analysis  
+✅ Analyzed workforce trends across departments  
+✅ Supported data-driven HR decision-making
 
 ---
 
 # 📜 Certifications
 
-- 🏅 IBM – Data Analysis with Python
-- 🏅 NPTEL – Python for Data Science
-- 🏅 HP – Data Science & Analytics Job Simulation
-- 🏅 Tata Group – GenAI Data Analytics Job Simulation
+🏅 IBM — Data Analysis with Python
+
+🏅 NPTEL — Python for Data Science
+
+🏅 HP — Data Science & Analytics Job Simulation
+
+🏅 Forage (Tata Group) — GenAI Data Analytics Simulation
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Improving
 
-- Advanced SQL
-- Power BI (DAX & Power Query)
+- Advanced SQL Queries
+- Power BI DAX & Data Modeling
 - Statistics for Data Analysis
 - Data Storytelling
-- Business Analytics
+- Business Intelligence Techniques
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+📧 Email: lenabasheer.in@gmail.com
 
-<a href="mailto:lenabasheer.in@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+🔗 LinkedIn:
+https://linkedin.com/in/lenabasheer
 
-<a href="https://www.linkedin.com/in/lenabasheer-dataanalyst">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🔗 GitHub:
+https://github.com/lena-basheer
 
-<a href="https://github.com/lena-basheer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://lenabasheer.github.io">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-</p>
+🔗 Portfolio:
+https://lena-basheer.github.io/portfolio/
 
 ---
 
-> **"Without data, you're just another person with an opinion."**
+> "Without data, you're just another person with an opinion."
 >
-> — *W. Edwards Deming*
+> — W. Edwards Deming
 
 ---
 
-<div align="center">
+⭐ Thanks for visiting my GitHub profile!
 
-⭐ Thank you for visiting my GitHub profile!
-
-I'm continuously building practical projects, expanding my analytics portfolio, and learning new tools to solve real-world business problems through data.
-
-</div>
+I build practical analytics projects focused on transforming data into meaningful business insights.
