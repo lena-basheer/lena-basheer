@@ -2,224 +2,178 @@
 
 ## Data Analyst | Python • SQL • Power BI • Excel
 
-BSc Computer Science Graduate specializing in Data Analytics and Business Intelligence.
+BSc Computer Science graduate focused on **Data Analytics and Business Intelligence**.
 
-I transform raw datasets into actionable business insights through data cleaning, exploratory data analysis (EDA), KPI reporting, dashboard development, and data visualization.
+I work with data to uncover trends, measure business performance, and turn raw datasets into actionable insights using **Python, SQL, Excel, and Power BI**.
 
-🔗 Portfolio: https://lena-basheer.github.io/portfolio/
-
----
-
-# 👩🏻‍💻 About Me
-
-🎓 Computer Science graduate with hands-on experience in Data Analytics and Business Intelligence.
-
-📊 Skilled in using Python, SQL, Excel, and Power BI to analyze datasets, identify trends, understand customer behavior, and support data-driven decision-making.
-
-🔍 Experienced in:
-
-- Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
-- Customer Segmentation
-- SQL-Based Business Analysis
-- KPI Reporting
-- Dashboard Development
-- Data Visualization
-- Business Insight Generation
-
-📈 Built analytics projects involving:
-
-- 500,000+ retail transactions
-- 4,000+ customer segmentation analysis
-- SQL-driven business reporting
-- Interactive Power BI dashboards
-
-🎯 Interested in Data Analyst and Business Intelligence roles where I can apply analytical skills to solve real-world business problems.
+🔗 **Portfolio:** https://lena-basheer.github.io/portfolio/
 
 ---
 
-# 💼 Technical Skills
+## 🛠️ Technical Skills
 
-## Programming & Data Analysis
+### Programming & Data Analysis
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
+* Python
+* SQL
+* Pandas
+* NumPy
+* Matplotlib
 
-## Data Analytics
+### Data Analytics
 
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Customer Segmentation
-- Business Analysis
-- KPI Development
-- Data Storytelling
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Customer Segmentation
+* Business Analysis
+* KPI Development
+* Data Storytelling
 
-## Business Intelligence & Visualization
+### Business Intelligence & Visualization
 
-- Power BI
-  - DAX
-  - Power Query
-  - Interactive Dashboards
-  - KPI Visualizations
+* Power BI
 
-- Microsoft Excel
-  - Pivot Tables
-  - Pivot Charts
-  - VLOOKUP/XLOOKUP
-  - Conditional Formatting
-  - Dashboard Development
+  * DAX
+  * Power Query
+  * Interactive Dashboards
+  * KPI Visualizations
+* Microsoft Excel
 
-## Databases & Tools
+  * Pivot Tables & Pivot Charts
+  * VLOOKUP/XLOOKUP
+  * Conditional Formatting
+  * Dashboard Development
 
-- SQLite
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+### Databases & Tools
+
+* SQLite
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Data Analyst Intern — BeeSkilled (AICTE Internship Portal)
+### Data Analyst Intern — BeeSkilled
 
-Remote | July 2026 – Present
+**Remote | July 2026 – Present**
 
-- Cleaned, validated, and transformed 51,290 sales records from the Global Superstore dataset using Microsoft Excel functions and descriptive statistics.
-- Designed interactive Sales Performance Dashboards using Pivot Tables, Pivot Charts, KPI cards, and slicers.
-- Analyzed revenue, customer segments, category performance, and yearly sales trends to support business reporting.
+* Cleaned, validated, and transformed **51,290 sales records** from the Global Superstore dataset using Microsoft Excel.
+* Built interactive sales performance dashboards using **Pivot Tables, Pivot Charts, KPI cards, and slicers**.
+* Analyzed revenue, customer segments, category performance, and yearly sales trends to support business reporting.
 
----
+### AI Data Analytics Intern — InAmigos Foundation
 
-## AI Data Analytics Intern — InAmigos Foundation
+**Remote | July 2026**
 
-Remote | July 2026
-
-- Researched and structured NGO datasets using Microsoft Excel to support organizational planning and growth strategies.
-- Investigated AI applications in outreach, fundraising, volunteer engagement, and online presence.
-- Translated findings into structured, decision-ready reports.
+* Researched and structured NGO datasets using Microsoft Excel to support organizational planning and growth strategies.
+* Investigated applications of AI in outreach, fundraising, volunteer engagement, and digital presence.
+* Translated research findings into structured, decision-ready reports.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Analytics Projects
 
-## 📊 Customer Segmentation & Sales Analysis
+### 📊 Customer Segmentation & Sales Analysis
 
 **Python • Pandas • NumPy • Matplotlib • Jupyter Notebook**
 
-Analyzed 500,000+ online retail transactions to identify customer purchasing patterns, revenue drivers, and retention opportunities.
+Analyzed **500,000+ online retail transactions** to understand customer purchasing behavior, revenue drivers, and retention opportunities.
 
-### Key Highlights
+**Key Work**
 
-✅ Cleaned and transformed large retail datasets  
-✅ Performed Exploratory Data Analysis (EDA)  
-✅ Engineered features for customer analysis  
-✅ Segmented 4,000+ customers into:
+* Cleaned and transformed large-scale retail transaction data.
+* Performed exploratory data analysis to identify sales and customer trends.
+* Engineered customer-level features for segmentation.
+* Segmented **4,000+ customers** into VIP, Loyal, Regular, and New segments.
+* Identified top-selling products, high-value customers, monthly sales trends, and country-level revenue patterns.
 
-- VIP
-- Loyal
-- Regular
-- New
-
-✅ Identified:
-
-- Top-selling products
-- High-value customers
-- Monthly sales trends
-- Country-level revenue patterns
-
-🔗 Repository:
-https://github.com/lena-basheer/Customer-Segmentation-Sales-Analysis
+🔗 **Repository:** https://github.com/lena-basheer/Customer-Segmentation-Sales-Analysis
 
 ---
 
-## 📈 SQL + Python Business Analytics
+### 📈 SQL + Python Business Analytics
 
-**SQL • SQLite • Python • Pandas • Matplotlib • Git/GitHub**
+**SQL • SQLite • Python • Pandas • Matplotlib**
 
-An end-to-end analytics project combining SQL and Python to analyze retail sales data and generate business insights.
+End-to-end business analytics project combining SQL analysis with Python-based reporting and visualization.
 
-### Key Highlights
+**Key Work**
 
-✅ Analyzed approximately 10,000 retail records  
-✅ Built SQL queries using joins and aggregations  
-✅ Evaluated:
+* Analyzed approximately **10,000 retail records**.
+* Used SQL joins, aggregations, and business-focused queries.
+* Evaluated customer, product, category, and regional performance.
+* Identified **Technology** as the highest revenue-generating category.
+* Identified the **West** region as the strongest-performing region.
+* Automated analysis reports and visualizations using Python.
 
-- Customer performance
-- Product performance
-- Category trends
-- Regional sales
-
-✅ Identified:
-
-- Technology as the highest revenue-generating category
-- West region as the strongest-performing region
-
-✅ Automated analysis reports and visualizations using Python.
-
-🔗 Repository:
-https://github.com/lena-basheer/sql-python-business-analytics
+🔗 **Repository:** https://github.com/lena-basheer/sql-python-business-analytics
 
 ---
 
-## 📊 HR Analytics Dashboard
+### 📊 Sales Performance Analysis
+
+**Python • Pandas • Data Analysis**
+
+Sales analytics project developed as part of the **BeeSkilled Data Analyst Internship**.
+
+**Key Work**
+
+* Cleaned and analyzed sales transaction data.
+* Investigated revenue, customer segments, product categories, and yearly sales performance.
+* Developed analysis outputs to support sales performance reporting.
+* Applied data-cleaning and analytical techniques to a real-world business dataset.
+
+🔗 **Repository:** https://github.com/lena-basheer/Sales-Performance-Analysis
+
+---
+
+### 👥 HR Analytics Dashboard
 
 **Power BI**
 
-Interactive workforce analytics dashboard developed to analyze employee distribution and workforce trends.
+Interactive workforce analytics dashboard designed to analyze employee distribution and workforce trends.
 
-### Key Highlights
+**Key Work**
 
-✅ Built KPI-based visualizations  
-✅ Created interactive filters and slicers  
-✅ Analyzed workforce distribution across departments  
-✅ Supported HR decision-making through data insights
-
----
-
-# 📜 Certifications
-
-🏅 IBM — Data Analysis with Python
-
-🏅 NPTEL — Python for Data Science
-
-🏅 HP — Data Science & Analytics Job Simulation
-
-🏅 Forage (Tata Group) — GenAI Data Analytics Simulation
+* Developed KPI-based workforce visualizations.
+* Created interactive filters and slicers.
+* Analyzed workforce distribution across departments.
+* Presented workforce metrics through an interactive Power BI dashboard.
 
 ---
 
-# 📚 Continuous Learning
+## 📜 Certifications
 
-- Advanced SQL Optimization
-- Power BI DAX & Data Modeling
-- Statistics for Data Analysis
-- Data Storytelling
-- Business Intelligence Techniques
-
----
-
-# 📫 Connect With Me
-
-📧 Email:
-lenabasheer.in@gmail.com
-
-🔗 LinkedIn:
-https://linkedin.com/in/lenabasheer
-
-🔗 GitHub:
-https://github.com/lena-basheer
-
-🔗 Portfolio:
-https://lena-basheer.github.io/portfolio/
+* 🏅 **IBM — Data Analysis with Python**
+* 🏅 **NPTEL — Python for Data Science**
+* 🏅 **HP — Data Science & Analytics Job Simulation**
+* 🏅 **Forage (Tata Group) — GenAI Data Analytics Simulation**
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+## 📚 Currently Developing
 
-I build practical analytics projects focused on transforming data into meaningful business insights using Python, SQL, Excel, and Power BI.
+* Advanced SQL
+* Power BI DAX & Data Modeling
+* Statistics for Data Analysis
+* Data Storytelling
+* Business Intelligence Techniques
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [lenabasheer.in@gmail.com](mailto:lenabasheer.in@gmail.com)
+
+🔗 **LinkedIn:** https://linkedin.com/in/lenabasheer
+
+🔗 **GitHub:** https://github.com/lena-basheer
+
+🔗 **Portfolio:** https://lena-basheer.github.io/portfolio/
+
+---
+
+⭐ I build practical analytics projects that transform data into meaningful business insights using **Python, SQL, Excel, and Power BI**.
